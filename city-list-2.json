@@ -1,0 +1,12 @@
+[
+  { "id": "tokyo",      "name": "Tokyo" },
+  { "id": "kyoto",      "name": "Kyoto" },
+  { "id": "manhattan",  "name": "Manhattan" },
+  { "id": "madrid",     "name": "Madrid" },
+  { "id": "barcelona",  "name": "Barcelona" },
+  { "id": "milan",      "name": "Milano" },
+  { "id": "nice",       "name": "Nice" },
+  { "id": "lisbon",     "name": "Lisbon" },
+  { "id": "capetown",   "name": "Cape Town" },
+  { "id": "seongsu",    "name": "Seongsu" }
+]
